@@ -2,6 +2,7 @@
 
 ## Introduction 👋
 
+[Introduction Video  (Vietnamese)](https://youtu.be/NVwgvTiIRCM)
 ![Total Duration](assets/viVoice-total-duration.png)
 *Figure 1: Total duration of the viVoice dataset (1,017 hours) compared to other multi-speaker Vietnamese speech datasets. The LibTTS dataset is included for reference purposes.*
 
