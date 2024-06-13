@@ -27,10 +27,11 @@ Both the viVoice corpus and the viXTTS model were prepared end-to-end by [Thinh 
 }
 ```
 
-### Example Usage (Colab)
+### Data Access & Usage
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-8kQ0QrZONIjYuKl__m_XyiqBZmoQa6?usp=sharing)
-
+https://huggingface.co/datasets/capleaf/viVoice
+https://huggingface.co/datasets/thinhlpg/vivoice-distil
 ## Key Features and Statistic 📊
 
 - **All audio is cleaned from noise and music.**
