@@ -14,7 +14,7 @@ Both the viVoice corpus and the viXTTS model were prepared end-to-end by [Thinh 
 
 ### Dataset Structure
 
-```json
+```
 {
   'channel': '@channelID',
   'text': 'Xin chào, chúc bạn một ngày tốt lành.',
